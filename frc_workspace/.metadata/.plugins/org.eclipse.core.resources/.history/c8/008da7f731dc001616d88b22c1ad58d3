@@ -1,0 +1,8 @@
+package org.usfirst.frc2906.SpanawayLakeSentinels.subsystems;
+
+public class Snippet {
+	public static void main(String[] args) {
+		samplestoAverage
+	}
+}
+

@@ -1,0 +1,9 @@
+package org.usfirst.frc2906.SpanawayLakeSentinels.commands;
+
+public class Snippet {
+	public static void main(String[] args) {
+		ballFire = new DoubleSolenoid(1, 2);
+		LiveWindow.addActuator("Pneumatics", "Double Solenoid 1", ballFire);
+	}
+}
+

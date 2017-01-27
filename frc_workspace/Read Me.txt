@@ -1,0 +1,3 @@
+This folder is the workspace for the FRC Eclipse IDE. When you finish downloading and installing eclipse, choose this folder as the workspace you want to use. All the files will be saved and stored here, so do not clog it up with crap.
+
+-DeMarco Best, Lead Programmer 2017
